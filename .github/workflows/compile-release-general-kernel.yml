@@ -85,7 +85,7 @@ on:
           - -summer-growing
           - -autumn-harvesting
           - -winter-storing
-          - -yourname
+          - -Dev1l
       kernel_config:
         description: "Set the path of kernel .config"
         required: false
